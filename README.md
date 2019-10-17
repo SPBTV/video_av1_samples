@@ -3,8 +3,8 @@
 AV1 Video file https://aomedia.org
 
 To watch AV1 video files you can use for example:
-1) [Google Chrome 70+](https://www.google.com/chrome/beta/)
-2) [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
+1) [Google Chrome](https://www.google.com/chrome/)
+2) [Mozilla Firefox](https://www.mozilla.org/en-US/firefox)
 
 ## 1. Sample Video AV1 MP4
 
